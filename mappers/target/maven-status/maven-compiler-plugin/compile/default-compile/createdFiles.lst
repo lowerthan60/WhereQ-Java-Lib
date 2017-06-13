@@ -1,0 +1,3 @@
+com\whereq\mapper\JsonMapper.class
+com\whereq\mapper\JaxbMapper.class
+com\whereq\mapper\JaxbMapper$CollectionWrapper.class
